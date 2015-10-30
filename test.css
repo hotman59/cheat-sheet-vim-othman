@@ -1,0 +1,132 @@
+html, body,h1{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: url(blue.jpg);
+}
+
+h1{
+  font-family: 'Luckiest Guy', cursive;
+  color: black;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+h4{
+  text-align: center;
+  margin-left: 250px;
+}
+
+#imgterm {
+width: 300px;
+margin-left: 200px;
+border: 1px solid black;
+
+}
+#imglinux{
+  display: block;
+width: 300px;
+height: 150px;
+border: 1px solid black;
+margin: auto;
+clear: both;
+}
+#imggit{
+float:right;
+width: 300px;
+height: 150;
+margin-right: 200px;
+border: 1px solid black;
+}
+#imgvim{
+display: block;
+width: 300px;
+height: 150px;
+margin: auto;
+border: 3px solid black;
+}
+
+
+#imgvim:hover{
+transform: scale(1,2);
+}
+
+#imgterm:hover {
+transform: scale(1,2);
+}
+#imggit:hover {
+transform: scale(1,2);
+}
+#imglinux:hover {
+transform: scale(1,2);
+}
+header{
+  background-color: rgba(129, 163, 155, 0.8);
+  height: 150px;
+  margin-top: 0;
+  padding: 0;
+}
+#logovim {
+border: 2px solid purple;
+height: 150;
+width: 150px;
+}
+#titlevim {
+
+  border: 1px solid black;
+  width: 300px;
+  font-family: 'Rock Salt', cursive;
+  margin-top: -165px;
+  padding-top: 0px;
+  background-color: none;
+}
+
+#menuleft{
+
+float: left;
+display: inline-block;
+margin-bottom: -20px;
+  border: 2px solid red;
+  width:150px;
+	height:1060px;
+	background-color:rgba(129, 163, 155, 0.8);
+}
+
+#sectionvim {
+display: inline-block;
+border: 2px solid pink;
+margin: 50px;
+}
+
+#sectionvim2 {
+display: inline-block;
+border: 2px solid pink;
+margin: 100px;
+}
+
+
+#home{
+
+  border:1px solid red;
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+#courage{
+  font-size: 5em;
+  margin-left: 25%;
+}
+
+
+footer{
+  height: 80px;
+  margin-top: 0;
+  background-color:rgba(129, 163, 155, 0.8);
+  clear: both;
+}
+
+footer p{
+margin-left: 90%;
+
+}
