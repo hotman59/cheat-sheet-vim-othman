@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+}
+header {
+  height: 120px;
+}
+header p {
+  width: 95%;
+}
+#sectionvim {
+  width: 80%;
+  margin-left: 8%;
+}
+#sectionvim2 {
+  width: 80%;
+  margin-left: 8%;
+}
